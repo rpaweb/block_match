@@ -22,8 +22,8 @@ WRONG SEQUENCE!
 
 ## Authors
 
-* **Rafael Peña-Azar** - *Ruby* - [RPA](https://rpaweb.github.io)
-* **Hector Villa Pizarro** - *JavaScript* [HVP](https://github.com/hvilla)
+* *Ruby version* - **Rafael Peña-Azar** - [RPA](https://rpaweb.github.io)
+* *JavaScript version* - **Hector Villa Pizarro** - [HVP](https://github.com/hvilla)
 
 ## Acknowledgments
 
